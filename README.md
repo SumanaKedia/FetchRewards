@@ -150,6 +150,8 @@ Integrates Actuator for monitoring health, metrics, and application statistics w
 ### Unit Testing with JUnit and Mockito
 Comprehensive unit tests for services and controllers with high coverage, using Mockito to mock dependencies and verify responses.
 
+### Docker Multi-Stage Build
+Uses Docker multi-stage build to streamline containerization, separating build and runtime stages for optimized image size and performance.
 
 
 
