@@ -106,7 +106,12 @@ Ensure that you have Java JDK 17, Maven and Docker installed on your machine.
      mvn clean package
      mvn spring-boot:run
     ```
-
+4. **Run with test:** If you wish to run test while build make changes in docker file:
+    #### RUN mvn clean package -DskipTests to
+    ```bash
+    RUN mvn clean package
+    ```
+   
 The application will be running on [http://localhost:8080](http://localhost:8080).
 
 
