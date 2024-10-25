@@ -1,0 +1,10 @@
+com\example\ReceiptProcessor\service\pointsRuleImp\ItemDescriptionRuleTest.class
+com\example\ReceiptProcessor\service\pointsRuleImp\PurchaseTimeRuleTest.class
+com\example\ReceiptProcessor\ReceiptProcessorApplicationTests.class
+com\example\ReceiptProcessor\service\pointsRuleImp\RoundDollarAmountRuleTest.class
+com\example\ReceiptProcessor\service\pointsRuleImp\OddDayRuleTest.class
+com\example\ReceiptProcessor\service\pointsRuleImp\MultipleOfQuarterRuleTest.class
+com\example\ReceiptProcessor\service\pointsRuleImp\RetailerNameRuleTest.class
+com\example\ReceiptProcessor\controller\ReceiptControllerTest.class
+com\example\ReceiptProcessor\service\ReceiptServiceTest.class
+com\example\ReceiptProcessor\service\pointsRuleImp\ItemCountRuleTest.class
