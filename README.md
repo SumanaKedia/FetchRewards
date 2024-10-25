@@ -153,6 +153,8 @@ Comprehensive unit tests for services and controllers with high coverage, using 
 ### Docker Multi-Stage Build
 Uses Docker multi-stage build to streamline containerization, separating build and runtime stages for optimized image size and performance.
 
+### H2 In-Memory Database
+Implements H2 in-memory database for fast, lightweight data storage during development and testing, ensuring quick setup and teardown.
 
 
 
