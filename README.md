@@ -130,8 +130,26 @@ curl http://localhost:8080/receipts/{id}/points
 
 #### Feel free to replace the `{...}` with an actual JSON payload for processing receipts when you're ready.
 
-### Contribution
-Feel free to fork the repository and submit pull requests.
+# Features
+
+### REST API with Spring Boot
+Implements RESTful endpoints with Spring Boot for efficient receipt processing and management.
+
+### Global Exception Handling
+Centralized error-handling for consistent and user-friendly API error responses.
+
+### Environment Profiling for Development and Production
+Separates configurations for `dev` and `prod` using Spring profiles for enhanced flexibility and security.
+
+### Aspect-Oriented Programming (AOP) for Logging
+AOP adds logging across key application points without cluttering business logic, enabling detailed insights.
+
+### Spring Boot Actuator
+Integrates Actuator for monitoring health, metrics, and application statistics with endpoints like `/actuator/health`.
+
+### Unit Testing with JUnit and Mockito
+Comprehensive unit tests for services and controllers with high coverage, using Mockito to mock dependencies and verify responses.
+
 
 
 
