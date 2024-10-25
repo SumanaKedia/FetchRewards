@@ -82,7 +82,7 @@ The API endpoints are documented below:
 
 ### Prerequisites
 
-Ensure that you have Java JDK 17, Maven and Docker installed on your machine.
+Ensure that you have Docker installed on your machine.
 
 ### Running the Application
 
